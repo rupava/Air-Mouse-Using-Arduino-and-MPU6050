@@ -1,1 +1,1 @@
-# Air-Mouse-Using-Arduino-and-MPU6050
+# Air Mouse Using Arduino and MPU6050
