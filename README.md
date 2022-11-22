@@ -15,12 +15,12 @@ There is some latency involved, I guess its due to the library but I'm not sure,
 approach with other MPU6050 libraries.
     
 ## Prerequisites:
-1. Software :- 
+**Software :**
 * Arduino IDE
 * MPU6050 Library from https://github.com/tockn/MPU6050_tockn
 * Python 3
 * pynput Python library (pip install pynput)
-2. Hardware :-
+**Hardware :**
 * Arduino Uno or Nano or any ATMEGA328 based board
 * MPU6050 Gyro Sensor
 * Three 10KΩ Resistors
