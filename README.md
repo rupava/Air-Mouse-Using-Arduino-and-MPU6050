@@ -21,7 +21,7 @@ approach with other MPU6050 libraries.
 * Python 3
 * pynput Python library (pip install pynput)
 **Hardware :**
-* Arduino Uno or Nano or any ATMEGA328 based board
+* Arduino Uno or Nano or any ATMEGA328 based board (or ESP32 for Blutooth Capabilities)
 * MPU6050 Gyro Sensor
 * Three 10KΩ Resistors
 * Three push to on buttons
